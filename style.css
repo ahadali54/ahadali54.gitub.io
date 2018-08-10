@@ -1,0 +1,18 @@
+body {
+  width: 100%;
+  background-color: orange;
+margin: 0;
+}
+.time {
+  font-family: 'Stalinist One', cursive;
+}
+
+.intro {
+  background-color: red;
+}
+
+img{
+
+  border: 10px dashed black;
+  margin-left: 500px;
+}
