@@ -8,11 +8,36 @@ margin: 0;
 }
 
 .intro {
+  text-align: center;
   background-color: red;
 }
 
 img{
 
   border: 10px dashed black;
-  margin-left: 500px;
+  
+}
+  table {
+    margin:auto;
+    border-collapse:collapse;
+  }
+  
+  table, tr, td, th {
+    border: 6px dashed black;
+  }
+
+td, th, tr{
+  padding: 10px;
+  text-align: center;
+} 
+
+tr:hover {
+  background-color: yellow;
+  color: blue;
+}
+.spaceship{
+  background-image: url("rocket.jpg");
+  background-size: contain;
+  height: 100px;
+  color: black;
 }
