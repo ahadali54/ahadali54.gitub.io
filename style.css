@@ -41,3 +41,23 @@ tr:hover {
   height: 100px;
   color: black;
 }
+.blue{
+  height: 100px;
+  width: 100px;
+  background-color:blue;
+  border-radius: 50%;
+  position : absolute;
+}
+.crew{
+  border: 10px solid red;
+  border-radius:15px;
+}
+.black{
+  position: relative;
+  color: red;
+  top: 40%;
+  left: 32%;
+}
+.hockey{
+  background-color: orange;
+}
